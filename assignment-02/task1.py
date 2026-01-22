@@ -1,3 +1,5 @@
+# Task 1: Check if a Number is Even or Odd
+
 # 1. 	Takes an integer input from the user.
 number = int(input("Enter an integer: "))
 

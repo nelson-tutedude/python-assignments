@@ -1,5 +1,6 @@
 # ASSIGNMENT 1  
 ## Module 2: Basic Python Concepts  
+This repository contains solutions for the Module 2 assignment tasks.
 
 ---
 
