@@ -1,8 +1,11 @@
-# Assignment 3
-## Module 4: Functions & Modules in Python 
+# TuteDude Python Assignment 3
+
+## Module 4: Functions & Modules in Python
+
 ---
 
-### Task 1: Calculate Factorial Using a Function 
+### Task 1: Calculate Factorial Using a Function
+
 **Problem Statement:**
 Write a Python program that:
 	1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
@@ -12,6 +15,7 @@ Write a Python program that:
 ---
 
 ### Task 2: Using the Math Module for Calculations
+
 **Problem Statement:**
 Write a Python program that:
 	1.   Asks the user for a number as input.

@@ -1,19 +1,26 @@
-# Assignment 2
+# TuteDude Python Assignment 2
+
 ## Module 3: Control Structures in Python
+
 This repository contains solutions for the Module 3 assignment tasks.
----
+---------------------------------------------------------------------
 
 ### Task 1: Check if a Number is Even or Odd
+
 **Problem Statement:**
 Write a Python program that:
-1. 	Takes an integer input from the user.
-2. 	Checks whether the number is even or odd using an if-else statement.
-3. 	Displays the result accordingly.
+
+1. Takes an integer input from the user.
+2. Checks whether the number is even or odd using an if-else statement.
+3. Displays the result accordingly.
+
 ---
 
 ### Task 2: Sum of Integers from 1 to 50
+
 **Problem Statement:**
 Write a Python program that:
-1.   Uses a for loop to iterate over numbers from 1 to 50.
-2.   Calculates the sum of all integers in this range.
-3.   Displays the final sum.
+
+1. Uses a for loop to iterate over numbers from 1 to 50.
+2. Calculates the sum of all integers in this range.
+3. Displays the final sum.

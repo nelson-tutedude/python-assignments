@@ -1,15 +1,16 @@
-# ASSIGNMENT 1  
-## Module 2: Basic Python Concepts  
+# TuteDude Python Assignment 1
+
+## Module 2: Basic Python Concepts
+
 This repository contains solutions for the Module 2 assignment tasks.
 
 ---
 
 ### **Task 1: Perform Basic Mathematical Operations**
 
-**Problem Statement:**  
-Write a Python program that performs the following steps:
+**Problem Statement:**Write a Python program that performs the following steps:
 
-1. Takes **two numbers** as input from the user.  
+1. Takes **two numbers** as input from the user.
 2. Performs the basic mathematical operations on these two numbers:
    - **Addition**
    - **Subtraction**
@@ -22,6 +23,7 @@ Write a Python program that performs the following steps:
 ### **Task 2: Create a Personalized Greeting**
 
 **Problem Statement: Write a Python program that:**
-1.  Takes a user's first name and last name as input.
-2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
+
+1. Takes a user's first name and last name as input.
+2. Concatenates the first name and last name into a full name.
+3. Prints a personalized greeting message using the full name.
